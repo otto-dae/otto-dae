@@ -10,12 +10,13 @@
 
 ###
 
+<h4 align="left">otto.acha.28@gmail.com</h4>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ottodeacha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="otto.acha.28@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/voidrabbit_bleh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -28,6 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=otto-dae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otto-dae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
 
 ###
 
@@ -121,8 +128,12 @@
 
 ###
 
+<h4 align="left">Video games, anime, manga and more geek stuff!</h4>
+
+###
+
 <div align="center">
-  <img height="200" src="https://imgur.com/a/Sh6E0Hs"  />
+  <img height="300" src="https://i.imgur.com/8Voo6oh.png"  />
 </div>
 
 ###
