@@ -109,6 +109,10 @@
 
 ###
 
+<h3 align="left">Some of my interests!</h3>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/gvywtp06i0g0ama1bn2orynjm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=gvywtp06i0g0ama1bn2orynjm&count=5&unique=false" alt="Spotify recently played"  />
@@ -116,5 +120,9 @@
 </div>
 
 ###
-![Imgur Image](https://imgur.com/8Voo6oh)
 
+<div align="center">
+  <img height="200" src="https://imgur.com/a/Sh6E0Hs"  />
+</div>
+
+###
