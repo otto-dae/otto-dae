@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">My knwoledge in game developing 🎮</h3>
+<h3 align="left">My knowledge in game developing 🎮</h3>
 
 ###
 
