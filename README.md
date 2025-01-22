@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">You can find me here!</h4>
+<h3 align="left">You can find me here!</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">otto.acha.28@gmail.com</h4>
+<h3 align="left">otto.acha.28@gmail.com</h3>
 
 ###
 
