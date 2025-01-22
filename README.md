@@ -1,4 +1,4 @@
-[<h2 align="left">Otto De Acha E.</h2>
+<h2 align="left">Otto De Acha E.</h2>
 
 ###
 
@@ -116,4 +116,4 @@
 </div>
 
 ###
-](https://imgur.com/a/Sh6E0Hs)
+https://imgur.com/8Voo6oh
