@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
 
 ###
