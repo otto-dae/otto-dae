@@ -10,6 +10,10 @@
 
 ###
 
+<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
+
+###
+
 <h4 align="left">otto.acha.28@gmail.com</h4>
 
 ###
@@ -29,12 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=otto-dae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otto-dae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
 
 ###
 
