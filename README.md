@@ -116,7 +116,7 @@
 
 ###
 
-<h3 align="left">Some of my interests!</h3>
+<h3 align="left">Some of my interests</h3>
 
 ###
 
@@ -128,7 +128,7 @@
 
 ###
 
-<h4 align="left">Video games, anime, manga and more geek stuff!</h4>
+<h4 align="left">Video games, anime, manga and more geek stuff</h4>
 
 ###
 
