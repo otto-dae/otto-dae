@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Undergrad in Software Engineering with a passion for game development and tinkering with hardware and software to create fun and interesting projects.<br><br>Big computer nerd, everything from basic maintenance to diving into microcode at the CPU level.</h3>
+<h3 align="left">Undergrad in Software Engineering with a passion for game development and tinkering with hardware.<br>
 
 ###
 
-<h3 align="left">You can find me here!</h3>
+<h3 align="left">Socials</h3>
 
 ###
 
@@ -30,7 +30,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otto-dae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otto-dae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
 
