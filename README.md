@@ -12,14 +12,15 @@
 
 <br clear="both">
 
-<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
+
+
+
+<div align="left">
+  <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
 
 ###
 
 <h3 align="left">otto.acha.28@gmail.com</h3>
-
-
-<div align="left">
   <a href="https://www.linkedin.com/in/ottodeacha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
