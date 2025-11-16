@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Socials</h3>
+<h3 align="left">Contact</h3>
 
 ###
 
@@ -18,7 +18,6 @@
 
 <h3 align="left">otto.acha.28@gmail.com</h3>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ottodeacha/" target="_blank">
